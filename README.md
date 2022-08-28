@@ -30,3 +30,6 @@ Petra consta de distintas funciones/comando que te indica la propia PETRA en su 
 + HABLAR: se encarga de decir lo que hay escrito en el cuadro de texto
 
 Todos los achivos, páginas web, apps/programas y contactos se guardan en un archivo .txt
+
+# CHATBOT
+El chatbot está creado a partir de una base de datos (DB Browser)
