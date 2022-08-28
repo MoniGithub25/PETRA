@@ -34,3 +34,5 @@ Todos los achivos, páginas web, apps/programas y contactos se guardan en un arc
 # CHATBOT
 El chatbot está creado a partir de una base de datos (DB Browser) y que se guarda en un archivo .db
 Cahtbot en mantenimiento debido a que necesita más entradas y mejorar el reconocimiento de voz de PETRA
+
+En el futuro utilizar la librería openai para utilizar ChatBot por inteligencia artificial con GPT3
