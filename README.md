@@ -27,6 +27,6 @@ Petra consta de distintas funciones/comando que te indica la propia PETRA en su 
 
 + VOZ INGLES: para que hable en ingles (paquete de windows)
 
-+ HABLA: se encarga de decir lo que hay escrito en el cuadro de texto
++ HABLAR: se encarga de decir lo que hay escrito en el cuadro de texto
 
 Todos los achivos, páginas web, apps/programas y contactos se guardan en un archivo .txt
