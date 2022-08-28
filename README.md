@@ -32,4 +32,5 @@ Petra consta de distintas funciones/comando que te indica la propia PETRA en su 
 Todos los achivos, páginas web, apps/programas y contactos se guardan en un archivo .txt
 
 # CHATBOT
-El chatbot está creado a partir de una base de datos (DB Browser)
+El chatbot está creado a partir de una base de datos (DB Browser) y que se guarda en un archivo .db
+Cahtbot en mantenimiento debido a que necesita más entradas y mejorar el reconocimiento de voz de PETRA
